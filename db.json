@@ -1,0 +1,6 @@
+{
+  "customer":{
+    "name": "Sony",
+    "auth": ["DB-basic", "DB-N000", "DB-N001", "DB-S000"]
+  }
+}
